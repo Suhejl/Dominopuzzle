@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Dominopuzzle.iml" filepath="$PROJECT_DIR$/Dominopuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominosteine.iml" filepath="$PROJECT_DIR$/Dominosteine.iml" />
     </modules>
   </component>
 </project>
